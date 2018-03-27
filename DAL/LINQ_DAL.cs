@@ -26,7 +26,7 @@ namespace DAL
 
         public void AddProduct(Backend.Product p)
         {
-            throw new NotImplementedException();
+            DB.Add(p);
         }
 
         public List<Backend.Product> ProductNameQuery(string name)
