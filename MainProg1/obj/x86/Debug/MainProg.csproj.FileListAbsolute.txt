@@ -26,3 +26,18 @@ C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\MainProg1\bin\Debug\BL_Ba
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\MainProg1\obj\x86\Debug\MainProg.csprojResolveAssemblyReference.cache
 C:\Users\admin\Desktop\3 Tier\MainProg1\obj\x86\Debug\MainProg1.exe
 C:\Users\admin\Desktop\3 Tier\MainProg1\obj\x86\Debug\MainProg1.pdb
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\bin\Debug\MainProg1.exe
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\bin\Debug\MainProg1.pdb
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\bin\Debug\BL.dll
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\bin\Debug\DAL.dll
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\bin\Debug\PL.dll
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\bin\Debug\BL_Backend.dll
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\bin\Debug\BL.pdb
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\bin\Debug\DAL.pdb
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\bin\Debug\PL.pdb
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\bin\Debug\BL_Backend.pdb
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\obj\x86\Debug\MainProg.csprojResolveAssemblyReference.cache
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\obj\x86\Debug\MainProg.csproj.CoreCompileInputs.cache
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\obj\x86\Debug\MainProg.csproj.CopyComplete
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\obj\x86\Debug\MainProg1.exe
+C:\Users\Mobile Station\Documents\3 Tier\3Tier\MainProg1\obj\x86\Debug\MainProg1.pdb
